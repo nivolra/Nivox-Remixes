@@ -1,0 +1,3 @@
+# Terminal Invocation
+notify-send -t 6666 -a Nivox-Greeter "Nivolra's message of the day!" "$(fortune)"
+fastfetch --config $HOME/.config/fastfetch/Nivox.jsonc

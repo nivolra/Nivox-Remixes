@@ -18,9 +18,9 @@ $username\
 $hostname\
 [](bg:#FFFFFF fg:#999999)\
 $directory\
-[](bg:#ABBCDA fg:#FFFFFF)\
+[](bg:#8EE3AC fg:#FFFFFF)\
 $time\
-[](bg:#FFFFFF fg:#ABBCDA)\
+[](bg:#FFFFFF fg:#8EE3AC)\
 $git_branch\
 [](bg:#E7D8B1 fg:#FFFFFF)\
 $os\
@@ -45,7 +45,7 @@ format = "[ $path](fg:#2B313C bg:#FFFFFF)[$read_only ](fg:#2B313C bg:#FFFFFF)"
 [time]
 disabled = false
 time_format = "%a %b %e, %H:%M"
-format = "[ at $time ](fg:#2B313C bg:#ABBCDA)"
+format = "[ at $time ](fg:#2B313C bg:#8EE3AC)"
 
 [git_branch]
 symbol = '🌱 '
